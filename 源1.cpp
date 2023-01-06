@@ -19,7 +19,7 @@ void printStudents1(students* p)
 	p->age = 18;
 	cout << p->age << endl << p->name << endl << p->number << endl;
 }
-int main(void)
+int main2(void)
 {
 	students a1 = { "²ÌĞìÀ¤",60,12345 };
 	printStudents(a1);
