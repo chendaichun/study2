@@ -18,7 +18,7 @@ void printout()
 {
 	
 }
-int main()
+int main3()
 {
 	teachers tea[3];
 	for (int i = 0; i <= 2; i++)
@@ -33,4 +33,6 @@ int main()
 			cin >> tea[i].stu[j].score;
 		}
 	}
+	return
+		0;
 }
