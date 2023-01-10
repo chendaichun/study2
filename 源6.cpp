@@ -6,7 +6,7 @@ int ceshi(int a)
 	cout << p << endl;
 	return 0;
 }
-int main(void)
+int main7(void)
 {
 	int a = 1000;
 	int* p1 = &a;
