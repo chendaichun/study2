@@ -30,7 +30,8 @@ int main3()
 			cout << "请输入第" << j + 1 << "个学生的姓名";
 			cin >> tea[i].stu[j].name;
 			cout << "请输入ta的分数：";
-			cin >> tea[i].stu[j].score;
+			cin >> tea[i].stu[j].score
+				;
 		}
 	}
 	return
