@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//
+//复习罢了，实在是太无聊了
 class phone 
 {
 public:
@@ -11,7 +11,7 @@ public:
 		return profemance / prince;
 	}
 };
-int main()
+int main14()
 {
 	phone redmik50;
 	phone honor80;
@@ -33,4 +33,5 @@ int main()
 	{
 		cout << "一样好";
 	}
+	return 0;
 }
