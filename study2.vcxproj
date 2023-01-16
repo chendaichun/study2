@@ -129,12 +129,18 @@
   <ItemGroup>
     <ClCompile Include="源.cpp" />
     <ClCompile Include="源1.cpp" />
+    <ClCompile Include="源10.cpp" />
+    <ClCompile Include="源11.cpp" />
+    <ClCompile Include="源12.cpp" />
+    <ClCompile Include="源13.cpp" />
     <ClCompile Include="源2.cpp" />
     <ClCompile Include="源3.cpp" />
     <ClCompile Include="源4.cpp" />
     <ClCompile Include="源5.cpp" />
     <ClCompile Include="源6.cpp" />
     <ClCompile Include="源7.cpp" />
+    <ClCompile Include="源8.cpp" />
+    <ClCompile Include="源9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

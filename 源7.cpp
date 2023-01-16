@@ -16,7 +16,7 @@ bool poornum(long long a)
 	}
 	return true;
 }
-int main()
+int main8()
 {
 	
 	long long int n = 0;
