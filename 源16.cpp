@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 //研究一下堆区
-int main()
+int main17()
 {
 	int* p = new int;
 	*p = 1000;

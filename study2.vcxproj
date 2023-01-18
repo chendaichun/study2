@@ -136,6 +136,9 @@
     <ClCompile Include="源14.cpp" />
     <ClCompile Include="源15.cpp" />
     <ClCompile Include="源16.cpp" />
+    <ClCompile Include="源17.cpp" />
+    <ClCompile Include="源18.cpp" />
+    <ClCompile Include="源19.cpp" />
     <ClCompile Include="源2.cpp" />
     <ClCompile Include="源3.cpp" />
     <ClCompile Include="源4.cpp" />
